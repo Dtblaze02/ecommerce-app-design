@@ -157,7 +157,7 @@ class CreditCard extends Component {
                   paddingBottom: 15
                 }}
               >
-                Agree to our terms & conditions
+                Agree to our terms & conditions.
               </Text>
               <Text
                 style={{
